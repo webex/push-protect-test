@@ -1,3 +1,13 @@
+## [1.0.1](https://github.com/webex/push-protect-test/compare/v1.0.0...v1.0.1) (2023-04-19)
+
+
+### Bug Fixes
+
+* don't persist checkout creds ([54b1dba](https://github.com/webex/push-protect-test/commit/54b1dba594a566faad79dfb7f33aa06fb8f434c8))
+* dummy readme change ([86ba90d](https://github.com/webex/push-protect-test/commit/86ba90d7d21aa2dc6b25353ad1c4bb757c01c5b8))
+* dummy readme change ([005ea30](https://github.com/webex/push-protect-test/commit/005ea30c514d296cba35692d68c7d282d953c925))
+* tokens ([69be750](https://github.com/webex/push-protect-test/commit/69be75096b7bb929f81e2181fb611c911523a587))
+
 # 1.0.0 (2023-04-06)
 
 

@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/webex/push-protect-test/compare/v1.0.1...v1.0.2) (2023-04-19)
+
+
+### Bug Fixes
+
+* change ([e5a2640](https://github.com/webex/push-protect-test/commit/e5a26409389f43080cb269dc214f0e962fb6ba98))
+
 ## [1.0.1](https://github.com/webex/push-protect-test/compare/v1.0.0...v1.0.1) (2023-04-19)
 
 
